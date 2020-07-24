@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on <a target="_blank" href="http://barbershop.cesarcorreia.pt">this</a>.
+- 📫 How to reach me: cesar@cesarcorreia.pt
+
 <!--
 **alyatek/alyatek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
