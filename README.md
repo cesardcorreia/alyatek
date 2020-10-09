@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://cesarcorreia.pt" target="_blank"><img width="128px" src="https://i.imgur.com/tY7Sy6y.png"></a>
+<a href="https://cesarcorreia.pt" target="_blank"><img width="100px" src="https://cesarcorreia.pt/images/logo.svg"></a>
 </p>
 
 <p align="center">
