@@ -11,7 +11,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on <a target="_blank" href="http://barbershop.cesarcorreia.pt">this</a>.
+- 🔭 I’m currently working on <a target="_blank" href="https://marca-agora.pt">this</a>.
 - 📫 How to reach me: cesar@cesarcorreia.pt
 
 <p align="center">
