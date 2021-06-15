@@ -11,9 +11,11 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on <a target="_blank" href="https://marca-agora.pt">this</a>.
+<!--- 🔭 I’m currently working on <a target="_blank" href="https://marca-agora.pt">this</a>.-->
 - 📫 How to reach me: cesar@cesarcorreia.pt
-
+<p align="center">
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alyatek&badges=3"/>
+<p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alyatek&count_private=true&theme=radical" />   <img width="340px" src="https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg"/>  
 </p>
