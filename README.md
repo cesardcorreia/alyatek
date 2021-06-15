@@ -16,9 +16,6 @@
 <p align="center">
   <a href="https://profile.codersrank.io/user/alyatek/" target="_blank"><img width="70%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alyatek&badges=3"/></a>
 <p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alyatek&count_private=true&theme=radical" />   <img width="340px" src="https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg"/>  
-</p>
 
 <!--
 **alyatek/alyatek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
