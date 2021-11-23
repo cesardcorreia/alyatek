@@ -13,9 +13,6 @@
 
 <!--- 🔭 I’m currently working on <a target="_blank" href="https://marca-agora.pt">this</a>.-->
 - 📫 How to reach me: cesar@cesarcorreia.pt
-<p align="center">
-  <a href="https://profile.codersrank.io/user/alyatek/" target="_blank"><img width="70%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alyatek&badges=3"/></a>
-<p>
 
 <!--
 **alyatek/alyatek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
