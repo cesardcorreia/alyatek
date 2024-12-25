@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm César</h1>
 <h3 align="center">A backender with a pint of fullstack 🛠️</h3>
 
-- 🔭 I’m currently working on [agendamentos.pt](https://agendamentos.pt)
-
-- 📫 How to reach me **cesar@cesarcorreia.pt**
+- Latest project [agendamentos.pt](https://agendamentos.pt)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
